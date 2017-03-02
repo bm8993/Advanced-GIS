@@ -1,3 +1,10 @@
+echo "# bm8993.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:bm8993/bm8993.github.io.git
+git push -u origin master
+
 <!doctype html>
 <html>
     <head>
